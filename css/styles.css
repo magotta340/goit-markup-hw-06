@@ -508,6 +508,10 @@ img {
   padding-right: 55px;
 }
 
+.mail-field-box {
+    display: flex;
+}
+
 .subscribe-icon {
   margin-left: 10px;
   fill: currentColor;
